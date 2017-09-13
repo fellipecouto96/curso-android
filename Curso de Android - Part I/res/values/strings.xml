@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExemploDb</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="act_login">Login</string>
+    <string name="lbl_login">Usuário</string>
+    <string name="lbl_senha">Senha</string>
+    <string name="lbl_entrar">Entrar</string>
+    <string name="lbl_cadastrar_se">Cadastrar-se</string>
+    <string name="title_activity_cadastro">Cadastro</string>
+    <string name="title_activity_contatos">Contatos - Simple Adapter</string>
+    <string name="lbl_confirmacao_senha">Confirme sua senha</string>
+    <string name="lbl_cadastrar">Cadastrar</string>
+    <string name="lbl_cancelar">Cancelar</string>
+    <string name="lbl_novo">Novo</string>
+    <string name="lbl_info">Ajuda</string>
+
+</resources>
